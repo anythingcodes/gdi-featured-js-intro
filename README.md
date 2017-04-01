@@ -1,4 +1,4 @@
-## Intro to JavaScript
+# Intro to JavaScript
 
 Slides and materials are hosted at [http://anything.codes/gdi-featured-js-intro/](http://anything.codes/gdi-featured-js-intro).
 
