@@ -152,6 +152,63 @@ body {
   color: #13DAEC; }
 
 /*********************************************
+* GDI ADDITIONS
+**********************************************/
+.flex {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; }
+
+.flex .cta {
+  width: 40%;
+  margin: 10px 0; }
+
+.reveal .cta {
+  display: inline-block;
+  padding: 20px;
+  color: #d8ae64;
+  border-radius: 6px;
+  background-color: #01a9b4;
+  text-transform: uppercase;
+  font-size: .6em;
+  letter-spacing: 1px;
+  font-weight: bold; }
+
+.reveal .cta.inactive {
+  background: #333; }
+
+.reveal .inactive {
+  pointer-events: none; }
+
+.reveal .cta:not(.image) {
+  color: white;
+  transition: 1s ease background-color; }
+
+.reveal .cta:not(.image):hover {
+  background-color: #2a4758;
+  color: white; }
+
+.blue {
+  color: #00A9B4; }
+
+.green {
+  color: #92BB44; }
+
+.orange {
+  color: #EDAB23; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+.reveal .activity {
+  color: #f05b62; }
+  .reveal .activity:after {
+    content: ' \1F4BB'; }
+
+/*********************************************
  * GLOBAL STYLES
  *********************************************/
 body {
