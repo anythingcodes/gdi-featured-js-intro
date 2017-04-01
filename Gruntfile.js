@@ -35,6 +35,7 @@ module.exports = function(grunt) {
                     'dist/css/reveal.css': 'src/css/theme/reveal.scss',
                     'dist/css/homework.css': 'src/css/theme/source/homework.scss',
                     'dist/css/default.css': 'src/css/theme/source/default.scss',
+                    'dist/css/gdidark.css': 'src/css/theme/source/gdidark.scss',
                     'dist/css/gdicool.css': 'src/css/theme/source/gdicool.scss',
                     'dist/css/gdilight.css': 'src/css/theme/source/gdilight.scss',
                     'dist/css/gdisunny.css': 'src/css/theme/source/gdisunny.scss'
