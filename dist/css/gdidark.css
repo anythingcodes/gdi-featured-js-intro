@@ -304,31 +304,31 @@ div.left-align {
  *********************************************/
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
-  border-right-color: #a05258; }
+  border-right-color: #01a9b4; }
 
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
-  border-left-color: #a05258; }
+  border-left-color: #01a9b4; }
 
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: #a05258; }
+  border-bottom-color: #01a9b4; }
 
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
-  border-top-color: #a05258; }
+  border-top-color: #01a9b4; }
 
 .reveal .controls div.navigate-left.enabled:hover {
-  border-right-color: #d8ae64; }
+  border-right-color: #3eedf9; }
 
 .reveal .controls div.navigate-right.enabled:hover {
-  border-left-color: #d8ae64; }
+  border-left-color: #3eedf9; }
 
 .reveal .controls div.navigate-up.enabled:hover {
-  border-bottom-color: #d8ae64; }
+  border-bottom-color: #3eedf9; }
 
 .reveal .controls div.navigate-down.enabled:hover {
-  border-top-color: #d8ae64; }
+  border-top-color: #3eedf9; }
 
 /*********************************************
  * PROGRESS BAR
