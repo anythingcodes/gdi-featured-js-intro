@@ -232,10 +232,11 @@ body {
 .left {float: left;}
 .right {float: right;}
 
-.reveal .activity {
-	color: $gdiPink;
-	&:after {
-		content: ' \1F4BB';
+.reveal {
+	.activity {
+		h2:after {
+			content: ' \1F4BB';
+		}
 	}
 }
 

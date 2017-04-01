@@ -208,10 +208,8 @@ body {
 .right {
   float: right; }
 
-.reveal .activity {
-  color: #f05b62; }
-  .reveal .activity:after {
-    content: ' \1F4BB'; }
+.reveal .activity h2:after {
+  content: ' \1F4BB'; }
 
 /*********************************************
  * GLOBAL STYLES
